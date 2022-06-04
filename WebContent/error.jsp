@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="blue">
 <h1>error message la</h1>
 <h1><s:property value="message"/></h1>
 
