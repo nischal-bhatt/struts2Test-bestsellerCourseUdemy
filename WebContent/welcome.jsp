@@ -11,7 +11,7 @@
 
 <s:form action="testAction">
 	<s:textfield name="firstName" label="Your Name"></s:textfield>
-	<s:submit value="Submit"></s:submit>
+	<s:submit value="Submit la"></s:submit>
 </s:form>
 
 </body>

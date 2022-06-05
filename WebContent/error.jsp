@@ -10,6 +10,6 @@
 <body bgcolor="blue">
 <h1>error message la</h1>
 <h1><s:property value="message"/></h1>
-
+<!-- getter is invoked -->
 </body>
 </html>
